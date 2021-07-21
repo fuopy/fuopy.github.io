@@ -4,13 +4,7 @@ Hey, I'm fuopy! My mission is to bring traditional video games to Social VR.
 
 I hope to set the functional expectations for users of Social VR platforms. By this I mean that I want to set an example for both player and platform developers of what traditional video games can look like in Social VR.
 
-Longtime VRChat users are complacent with having no games. Newbies are surpised when they find no games.
-The only tools available to me, fuopy, are those that are given by the Social VR platform developers.
-I'm doing what I can to make *all* users expect *real* games in a Social VR context, starting with porting *actually good*, somewhat popular games from *real* platforms.
-
-By having (albeit simple) games playable, platform developers can see the benefits first hand. Players can also experience the benefits firsthand. Developers can copy the way I did it, but bake it properly into the platform.
-
-In other words, I'm building the stepping stones so it's easier to see what the future can look like for players, content developers and platform developers. This means I'm:
+I'm aiming to build the stepping stones so it's easier to see what the future can look like for players, content developers and platform developers. This means I'm:
 - Porting games to VRChat so they can be played in worlds and avatars,
 - Releasing and supporting open source code so others can make games,
 - Creating original games of my own for VRChat.
